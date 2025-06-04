@@ -3,7 +3,7 @@
 | №  | Метод   | Запрос                       | Статус-код | Описание по документации         | Действия для получения                                                        |
 |----|---------|------------------------------|------------|----------------------------------|-------------------------------------------------------------------------------|
 | 1  | POST    | ADD A NEW PET                | 405        | Invalid input                    | Использовал другой метод - GET                                                |
-| 2  | PUT     | UPDATE A PET                 | 400        | Invalid ID supplied              | Удалил запятую в body                                                         |
+| 2  | PUT     | UPDATE A PET                 | 400        | Invalid ID supplied              | Удалил часть в body                                                         |
 | 3  | PUT     | UPDATE A PET                 | 404        | Pet not found                    | Добавил в адрес запроса несуществующий endpoint (`/pets` вместо `/pet`)       |
 | 4  | PUT     | UPDATE A PET                 | 405        | Validation exception             | Использовал другой метод - GET                                                |
 | 5  | GET     | SEARCH A PET BY STATUS       | 400        | Invalid status value             | Добавил заголовок с невалидным значением (`Content-Length: -10`)              |
