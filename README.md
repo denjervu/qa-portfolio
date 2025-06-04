@@ -11,8 +11,7 @@
 
 ## API тестирование
 - Задание
-- [Ссылка на коллекцию Postman](https://.postman.co/workspace/My-Workspace~03dee5b5-70c2-400f-8761-48f58c45de85/collection/44470480-556a222c-b674-4ee8-8a3f-5131843af17e?action=share&creator=44470480))
-
+- Коллекция Postman
 
 ## SQL
 - Задания для работы с базой данных
