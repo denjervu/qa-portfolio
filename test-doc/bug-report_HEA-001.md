@@ -76,7 +76,7 @@ Google Chrome v125.0.6422.142
 ```
 
 ## Вложения 
-![[https://github.com/denjervu/qa-portfolio/blob/main/test-doc/HEA-001.jpg]]
+![скрин HEA-001](HEA-001.jpg)
 
 ## Ссылки на связанные артефакты
 Отсутствуют
