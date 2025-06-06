@@ -1,8 +1,8 @@
 # Примеры моей тестовой документации
 
-## [Баг-репорт](bug-report_HEA-001)
+## [Баг-репорт]([bug-report_HEA-001](https://github.com/denjervu/qa-portfolio/blob/main/test-doc/bug-report_HEA-001.md)
 
 ## [Чек-лист1 (ссылка на гугл-таблицу)](https://docs.google.com/spreadsheets/d/1TNomfBoHHB1GjZFTTDeu9zYclABSIp-mjkO4UyyOlcs/edit?usp=sharing)
 
-## [Чек-лист2 Тестирование асинхронной интеграции двух сервисов](check-list_async_int)
+## [Чек-лист2 Тестирование асинхронной интеграции двух сервисов](https://github.com/denjervu/qa-portfolio/blob/main/test-doc/check-list_async_int.md)
 
