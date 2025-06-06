@@ -1,0 +1,8 @@
+# Примеры моей тестовой документации
+
+## [Баг-репорт](bug-report_HEA-001)
+
+## [Чек-лист1 (ссылка на гугл-таблицу)](https://docs.google.com/spreadsheets/d/1TNomfBoHHB1GjZFTTDeu9zYclABSIp-mjkO4UyyOlcs/edit?usp=sharing)
+
+## [Чек-лист2 Тестирование асинхронной интеграции двух сервисов](check-list_async_int)
+
