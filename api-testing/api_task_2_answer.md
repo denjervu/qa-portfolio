@@ -1,3 +1,5 @@
+[⬅️ вернуться к заданию](https://github.com/denjervu/qa-portfolio/tree/main/api-testing)
+
 Решение к заданию 2 Petstore.
 
 | №  | Метод   | Запрос                       | Статус-код | Описание по документации         | Действия для получения                                                        |
