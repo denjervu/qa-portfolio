@@ -8,5 +8,5 @@
 
 ## [API тестирование](https://github.com/denjervu/qa-portfolio/tree/main/api-testing#readme)
 
-В ближайшее время планирую добавить разделы по SQL и Python.
+## [Авто-тесты](https://github.com/denjervu/qa-portfolio/tree/main/test-doc#readme)
 
