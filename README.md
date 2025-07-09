@@ -8,5 +8,5 @@
 
 ## [API тестирование](https://github.com/denjervu/qa-portfolio/tree/main/api-testing#readme)
 
-## [Авто-тесты](https://github.com/denjervu/qa-portfolio/tree/main/test-doc#readme)
+## [Авто-тесты](https://github.com/denjervu/qa-portfolio/tree/main/auto-tests#readme)
 
