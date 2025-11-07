@@ -1,4 +1,4 @@
-[⬅️ вернуться к портфолио](https://github.com/denjervu/qa-portfolio/tree/main)
+[⬅️ вернуться на главную](https://github.com/denjervu)
 
 # Автотесты
 
