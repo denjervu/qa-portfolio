@@ -6,6 +6,6 @@
 
 ## [API тестирование](https://github.com/denjervu/qa-portfolio/tree/main/api-testing#readme)
 
-### [SQL запросы]((https://github.com/denjervu/qa-portfolio/tree/main/sql#readme))
+### [SQL запросы](https://github.com/denjervu/qa-portfolio/blob/main/sql/README.md)
 
 ## [Авто-тесты](https://github.com/denjervu/qa-portfolio/tree/main/auto-tests#readme)
